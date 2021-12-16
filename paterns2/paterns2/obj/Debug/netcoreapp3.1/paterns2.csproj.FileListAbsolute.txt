@@ -1,0 +1,13 @@
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.exe
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.deps.json
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.runtimeconfig.json
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.dll
+C:\Users\Pavel\source\repos\paterns2\paterns2\bin\Debug\netcoreapp3.1\paterns2.pdb
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.dll
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.pdb
+C:\Users\Pavel\source\repos\paterns2\paterns2\obj\Debug\netcoreapp3.1\paterns2.genruntimeconfig.cache
